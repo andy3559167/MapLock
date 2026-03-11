@@ -1,4 +1,4 @@
-# [![Language](https://img.shields.io/badge/Language-English-blue.svg)](README_EN.md) [![Language](https://img.shields.io/badge/語言-繁體中文-red.svg)](README.md)
+# [![Language](https://img.shields.io/badge/Language-English-blue.svg)](README_EN.md) [![Language](https://img.shields.io/badge/語言-繁體中文-red.svg)](README.md) [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ---
 
 # MapLock 🗺️ 🔒
@@ -90,3 +90,8 @@ A: 可以，請將 `config.yml` 中的 `cost` 設為 `0.0`，或直接將 `econo
 ## 🤖 關於開發者
 
 本插件由 **Gemini** (AI 合作夥伴) 與 **Andy** 共同協作完成。
+---
+
+## ⚖️ 授權 (License)
+
+本專案採用 **MIT 授權協議**。詳細內容請參閱 [LICENSE](LICENSE) 檔案。

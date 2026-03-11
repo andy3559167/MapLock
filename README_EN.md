@@ -1,4 +1,4 @@
-# [![Language](https://img.shields.io/badge/Language-English-blue.svg)](README_EN.md) [![Language](https://img.shields.io/badge/語言-繁體中文-red.svg)](README.md)
+# [![Language](https://img.shields.io/badge/Language-English-blue.svg)](README_EN.md) [![Language](https://img.shields.io/badge/語言-繁體中文-red.svg)](README.md) [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ---
 
 # MapLock 🗺️ 🔒
@@ -94,3 +94,7 @@ If you have ideas or find bugs, feel free to contribute:
 This plugin was co-created by **Gemini** (AI Partner) and **Andy**.
 
 ---
+
+## ⚖️ License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
