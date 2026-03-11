@@ -5,7 +5,7 @@
 
 A lightweight map protection plugin designed for Minecraft servers. It prevents unauthorized cloning of your map art and supports custom economic costs and multi-language settings.
 
-* **Tested Versions:** 1.21 ~ 1.21.1
+* **Tested Versions:** 1.21 ~ 1.21.11
 * **Java Version:** 21
 
 ## ✨ Features
