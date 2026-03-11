@@ -1,3 +1,5 @@
+# [English](README_EN.md) | 繁體中文
+---
 
 # MapLock 🗺️ 🔒
 
