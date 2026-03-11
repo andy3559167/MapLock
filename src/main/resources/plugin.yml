@@ -1,0 +1,31 @@
+name: MapLock
+version: 1.4
+main: com.norule.maplock.MapLockPlugin
+api-version: '1.21'
+softdepend: [Vault]
+commands:
+  map:
+    description: 地圖管理指令
+    usage: /map <help|lock|unlock|admin>
+permissions:
+  maplock.help:
+    description: 允許查看幫助選單
+    default: true
+  maplock.lock:
+    description: 允許鎖定地圖
+    default: true
+  maplock.unlock:
+    description: 允許解鎖自己的地圖
+    default: true
+  maplock.admin.info:
+    description: 允許查詢地圖資訊
+    default: op
+  maplock.admin.reload:
+    description: 允許重載設定檔
+    default: op
+  maplock.admin.forceunlock:
+    description: 允許強制解鎖他人的地圖
+    default: op
+  maplock.admin.bypass:
+    description: 無視禁用世界與手續費限制
+    default: op

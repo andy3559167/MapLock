@@ -1,0 +1,30 @@
+# 語言設定 (支援: zh_tw, zh_cn, en)
+language: "zh_tw"
+
+# 禁用此功能的世界清單
+disabled-worlds:
+  - "disabledworlds1"
+  - "disabledworlds2"
+
+# 鎖定手續費 (需要安裝 Vault 且經濟系統正常運作)
+economy:
+  enabled: false
+  cost: 0.0
+
+# 鎖定消耗物品
+item-cost:
+  enabled: false
+  material: "DIAMOND"
+  amount: 1
+  # 用於提示訊息顯示的名稱 (玩家數量不足時跳出的字)
+  display-name: "地圖鎖定憑證"
+  
+  # === 自訂物品進階判斷 ===
+  # 是否嚴格檢查物品名稱與 Lore？ (設為 false 則只檢查是不是鑽石)
+  strict-meta-check: true
+  # 要求物品必須完全符合這個名稱 (支援 & 顏色代碼，若不檢查請留空 "")
+  required-name: "&b地圖鎖定憑證"
+  # 要求物品必須包含以下 Lore (支援 & 顏色代碼，若不檢查請留空 [])
+  required-lore:
+    - "&7這是一個特殊的憑證"
+    - "&7可以用來保護你的地圖"
