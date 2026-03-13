@@ -1,4 +1,4 @@
-# [![Language](https://img.shields.io/badge/Language-English-blue.svg)](README_EN.md) [![Language](https://img.shields.io/badge/語言-繁體中文-red.svg)](README.md) [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) (LICENSE) [![bStats Servers](https://img.shields.io/bstats/servers/30105.svg)](https://bstats.org/plugin/bukkit/MapLock/30105) [![bStats Players](https://img.shields.io/bstats/players/30105.svg)](https://bstats.org/plugin/bukkit/MapLock/30105)
+# [![Language](https://img.shields.io/badge/Language-English-blue.svg)](README_EN.md) [![Language](https://img.shields.io/badge/語言-繁體中文-red.svg)](README.md) [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)(LICENSE) [![bStats Servers](https://img.shields.io/bstats/servers/30105.svg)](https://bstats.org/plugin/bukkit/MapLock/30105) [![bStats Players](https://img.shields.io/bstats/players/30105.svg)](https://bstats.org/plugin/bukkit/MapLock/30105)
 ---
 
 # MapLock 🗺️ 🔒
