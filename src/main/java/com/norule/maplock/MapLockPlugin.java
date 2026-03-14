@@ -62,7 +62,7 @@ public final class MapLockPlugin extends JavaPlugin implements Listener, Command
         }
 
         // 啟動 bStats (12345 請換成你在官網申請的 Plugin ID)
-        int pluginId = 12345;
+        int pluginId = 30105;
         Metrics metrics = new Metrics(this, pluginId);
 
         getLogger().info("MapLock v1.1.1 has been successfully enabled! (Spigot/Folia Supported)");
