@@ -11,7 +11,7 @@ A lightweight map protection plugin designed for Minecraft servers. It prevents 
 ## ✨ Features
 
 * **Map Locking System**: Prevents locked maps from being cloned in Crafting Tables or Cartography Tables.
-* **Multilingual Support**: Built-in support for Traditional Chinese (`zh_tw`), Simplified Chinese (`zh_cn`), and English (`en`) with auto-detection.
+* **Multilingual Support**: Built-in support for Traditional Chinese (`zh_tw`), Simplified Chinese (`zh_cn`), and English (`en`).
 * **Economy Integration**: Supports **Vault** economy bridge; set custom processing fees for locking maps.
 * **Custom Item Consumption**: Require specific items (supports custom Name and Lore checks) to be consumed for map locking.
 * **Admin Tools**: Provides detailed map info queries and administrative force-unlock features.
